@@ -36,7 +36,7 @@ get_duration() {
 
 }
 
-KEY="817dfdfb35b6507b022cf8c7179723c5"
+KEY=""
 CITY="468902"
 UNITS="metric"
 SYMBOL="°"
